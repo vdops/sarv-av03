@@ -1,1 +1,1 @@
-echo "Sarvauto Bhava!"
+echo "sarvauto!"
